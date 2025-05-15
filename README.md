@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Me chamo Yasmin Padilha 👋</h1>
+<h1 align="left">Yasmin Padilha 👋</h1>
 
-<p align="center">
+<p align="left">
   🎓 19 anos • Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
   🚀 Explorando <strong>Desenvolvimento Mobile</strong> e <strong>Machine Learning</strong> <br>
   📚 Atualmente estudando <strong>Java</strong> e <strong>Banco de Dados</strong> na faculdade
