@@ -25,12 +25,3 @@
 Sou uma pessoa apaixonada por tecnologia que está sempre buscando aprender e crescer na área.  
 A faculdade tem me apresentado novas possibilidades, e fora dela tenho me interessado bastante por **mobile** e **machine learning**.  
 Estou começando minha jornada aqui no GitHub, e em breve você verá muitos projetos legais por aqui! 😉
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: Yasmin Padilha  
-- 📧 E-mail: yasmincp757@gmail.com
-
----
