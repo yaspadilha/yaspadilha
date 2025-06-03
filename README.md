@@ -1,27 +1,26 @@
-<h1 align="left">Yasmin Padilha 👋</h1>
+<h1 align="center">✨ Olá, mundo! ✨</h1>
+<h2 align="center">Eu sou a <span style="color:#d94eff">Yasmin Padilha</span> 👩‍💻</h2>
 
-<p align="left">
-  🎓 19 anos • Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
-  🚀 Explorando <strong>Desenvolvimento Mobile</strong> e <strong>Machine Learning</strong> <br>
-  📚 Atualmente estudando <strong>Java</strong> e <strong>Banco de Dados</strong> na faculdade
+<p align="center">
+  🌟 Desenvolvedora em formação | 💡 Apaixonada por tecnologia<br>
+  🚀 Explorando o universo da programação com criatividade e dedicação<br>
+  🎯 Sempre em busca de novos desafios e aprendizados
 </p>
 
 ---
 
-## 🚀 Tecnologias que conheço
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ---
 
-## 💬 Sobre mim
-
-Sou uma pessoa apaixonada por tecnologia que está sempre buscando aprender e crescer na área.  
-A faculdade tem me apresentado novas possibilidades, e fora dela tenho me interessado bastante por **mobile** e **machine learning**.  
-Estou começando minha jornada aqui no GitHub, e em breve você verá muitos projetos legais por aqui! 😉
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaspadilha&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
