@@ -3,7 +3,7 @@
 
 <p align="center">
   🌟 Desenvolvedora Back-End em formação | 💡 Apaixonada por inovação e tecnologia<br>
-  🚀 Explorando o universo da programação e desenvolvimento de software<br>
+  🚀 Explorando o universo da programação e do desenvolvimento de software<br>
   🎯 Sempre em busca de novos desafios e aprendizados
 </p>
 
