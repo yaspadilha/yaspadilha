@@ -2,8 +2,8 @@
 <h2 align="center">Eu sou a <span style="color:#d94eff">Yasmin Padilha</span> 👩‍💻</h2>
 
 <p align="center">
-  🌟 Desenvolvedora em formação | 💡 Apaixonada por tecnologia<br>
-  🚀 Explorando o universo da programação com criatividade e dedicação<br>
+  🌟 Desenvolvedora Back-End em formação | 💡 Apaixonada por inovação e tecnologia<br>
+  🚀 Explorando o universo da programação e desenvolvimento de software<br>
   🎯 Sempre em busca de novos desafios e aprendizados
 </p>
 
